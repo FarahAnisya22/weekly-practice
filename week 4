@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>First Page>
+</head>
+<body>
+     <h1> What is Creative? </h1>
+     <a href="file:///c:/Users/farah/documents/second%20html.html">Click here to go to the second page </a>
+     <p> Creative is a process which involves loking with different perspectives on unique relationship of the surroundings </a>
+     <p> There are 4 phases of creative process which is background or knowledge accumulation, the incubation process, the idea experience, and evaluation with implementation </a>
+     <p> Common creativity techniques are brainstorming, scammperr, lateral thinking, mind mapping, problem reversal and attribute listing </a>
+</body>
+</html>
+
+<head>
+      <title> Biodata Page </title>
+</head>
+<body>
+      <h2> Personal Info </h2>
+	  <p> My name is Nor Farah Anisya Bt Fadzil. I am 20 years old </p>
+	  <p> I am currently studying at UiTM Merbok at Kedah and I am in Information Management field </p>
+	  <p> I was born in Kedah and my birthday is 22 August 2001 </p>
+	  <p> how to contact me </p>
+	  <a href="mailto:farahanisyafadzil@gmail.com">email me</a>
+	  <a href="https://twitter.com/kagamineritsu">My Twitter</a>
+	  <a href="https://facebook.com/FarahAnisya">My Facebook</a>
+src="images/uitm.png"></a>	  
+<img src="img-farah.jpg" alt="my image">	  
